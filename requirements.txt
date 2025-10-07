@@ -1,2 +1,6 @@
 django
 django-crispy-forms
+gunicorn
+whitenoise
+crispy-bootstrap5
+crispy-bootstrap5
