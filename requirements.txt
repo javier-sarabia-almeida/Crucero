@@ -4,3 +4,4 @@ gunicorn
 whitenoise
 crispy-bootstrap5
 crispy-bootstrap5
+django-postgresql

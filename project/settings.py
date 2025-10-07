@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-k6g)=2@ap-=9p=t9ldp06o9i6_fbn209_1##j)zcz4@=89lqp_'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [
     'crucero-aybbfveafybhcwgg.spaincentral-01.azurewebsites.net',
